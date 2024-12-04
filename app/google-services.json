@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19918646109",
+    "project_id": "citadels-project",
+    "storage_bucket": "citadels-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19918646109:android:ca7ef44495ad3341ae56b4",
+        "android_client_info": {
+          "package_name": "citadels.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiFabL-hYz5Vm0s-FZKwKpuHh4DGgOIEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
